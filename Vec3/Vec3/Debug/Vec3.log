@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\usuario\desktop\vec3\vec3\vec3\main.cpp(28): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+c:\users\usuario\desktop\vec3\vec3\vec3\main.cpp(31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Vec3.vcxproj -> C:\Users\USUARIO\Desktop\Vec3\Vec3\Debug\Vec3.exe
+  Vec3.vcxproj -> C:\Users\USUARIO\Desktop\Vec3\Vec3\Debug\Vec3.pdb (Partial PDB)
