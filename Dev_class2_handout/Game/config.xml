@@ -1,0 +1,17 @@
+<!-- Config file for the game -->
+<config>
+  <window>
+    <fullsreen status ="off" ></fullsreen>
+    <borderless status ="off" ></borderless>
+    <resizable status ="off" ></resizable>
+    <fullscreen_window status ="off" ></fullscreen_window>
+    <title>My Game With XML</title>
+    <width size = "1024"></width>
+    <height size = "768"></height>
+    <scale size = "1"></scale>
+  </window>
+  <audio>
+    <music volume ="100"></music>
+    <fx volume ="100"></fx>
+  </audio>
+</config>
